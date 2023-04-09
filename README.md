@@ -87,6 +87,19 @@ An instance of MongoDB must be running with imported data following the steps pr
   ##### Sort by Column
   <img src="/ReadMeImages/Picture16.png" width=65% height=65%>
 
+## Additional Resources
+This project would not be possible without the helpful insights provided at the following links and project documentation made available for the technologies employed like MongoDB and PHP MongoDB integration instructions. I encourage everyone to review these items to get a better understanding of the inner workings of this project.
+
+https://www.mongodb.com/docs/manual/reference/method/
+https://www.mongodb.com/docs/php-library/current/tutorial/install-php-library/
+https://canvasjs.com/javascript-charts/
+https://www.openstreetmap.org/about
+https://learn.microsoft.com/en-us/aspnet/ajax/
+https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview
+
+### Contact
+Lance Cain : lance.cain@snhu.edu
+
 
 
 
