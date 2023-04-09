@@ -37,6 +37,14 @@ This project also relies on connecting to an existing MongoDB instance that is e
 ## Usage
 An instance of MongoDB must be running with imported data following the steps presented above. After hosting the PHP and HTML content on a webserver, the dashboard can be access by navigating to http://\<server\>/login.html using a modern web browser and logging in with the user credentials you configured in the MongoDB database. The dashboard will automatically populate a table with unfiltered data retrieved from the MongoDB database. Additionally, below the table two widgets will display pie graph representation of breeds presented in the table and a map widget which can be used to view locations of animals in the table. The data presented in the table can be filtered using two methods. First there is a row of four buttons at the top of the table which will apply three filters to present records matching qualities Grazioso Salvare has deemed desirable for dogs acting as ‘Water Rescue’, ‘Mountain or Wilderness Rescue’, and ‘Disaster or Individual Tracking’. These three different filters can be applied by clicking the corresponding button and can be cleared by clicking the ‘Reset Filters’ button. Additionally, the data presented in the table can be filtered and searched by using the search bar located above the table. To clear these filters just delete the filter value and press enter.
 
+  ### Testing
+  Testing has been performed for each desired interaction detailed within the client Dashboard Specification documentation. This includes applying filters using the included buttons, filtering data within the table using search strings, clearing filters, paging through the table for multiple outputs, sorting, observing the updated content for both the map and graph as data changed within the table, and engaging the html anchor website from the Grazioso Salvare logo. Examples of these actions can be seen in the accompanying screenshots that follow.
+  
+  ### Screenshots
+  #### Importing the Austin Animal Center Outcomes data CSV using the MongoDB import tool.
+
+
+
 
 
 
