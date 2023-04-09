@@ -42,7 +42,7 @@ An instance of MongoDB must be running with imported data following the steps pr
   
   ### Screenshots
   #### Importing the Austin Animal Center Outcomes data CSV using the MongoDB import tool.
-  ![Screenshot1](/ReadMeImages/Picture1.png?raw=true "Screenshot-1")
+  ![Screenshot1](/ReadMeImages/Picture1.png=250x250 "Screenshot-1")
 
 
 
