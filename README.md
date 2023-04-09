@@ -50,30 +50,42 @@ An instance of MongoDB must be running with imported data following the steps pr
   
   ##### Starting MongoDB with user authentication and loaded data
   <img src="/ReadMeImages/Picture4.png" width=70% height=70%>
+  
   ##### Dashboard login page
-  <img src="/ReadMeImages/Picture5.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture5.png" width=65% height=65%>
+  
   ##### Accessing the dashboard after login
-  <img src="/ReadMeImages/Picture6.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture6.png" width=65% height=65%>
+  
   ##### Opening the Grazioso Salvare logo html anchor in a new tab
-  <img src="/ReadMeImages/Picture7.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture7.png" width=65% height=65%>
+  
   ##### New tab to www.snhu.edu opened
-  <img src="/ReadMeImages/Picture8.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture8.png" width=65% height=65%>
+  
   ##### View of the data table graph and map widgets
-  <img src="/ReadMeImages/Picture9.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture9.png" width=65% height=65%>
+  
   ##### Water Rescue Filter Applied
-  <img src="/ReadMeImages/Picture10.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture10.png" width=65% height=65%>
+  
   ##### Updated widgets for filter application
-  <img src="/ReadMeImages/Picture11.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture11.png" width=65% height=65%>
+  
   ##### Disaster Rescue Filter Applied
-  <img src="/ReadMeImages/Picture12.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture12.png" width=65% height=65%>
+  
   ##### Reset Filters
-  <img src="/ReadMeImages/Picture13.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture13.png" width=65% height=65%>
+  
   ##### Filter data viewed in the table using search
-  <img src="/ReadMeImages/Picture14.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture14.png" width=65% height=65%>
+  
   ##### Reset by clearing search string
-  <img src="/ReadMeImages/Picture15.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture15.png" width=65% height=65%>
+  
   ##### Sort by Column
-  <img src="/ReadMeImages/Picture16.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture16.png" width=65% height=65%>
 
 
 
