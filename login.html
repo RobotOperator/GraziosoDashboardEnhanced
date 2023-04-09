@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--Created by robot aka lcain@snhu.edu-->
+<!--Grazioso Login Form, required for creating an authenticated session to the dashboard-->
+<!--POST request passes username and password fields to backend server-->
+    <title>
+    Login
+    </title
+</head>
+<body>
+  <form name="input" action="dashboard.php" method="post">
+    <label for="username">Username:</label><input type="text" value="" id="username" name="username" />
+    <label for="password">Password:</label><input type="password" value="" id="password" name="password" />
+    <div class="error"><?= $errorMsg ?></div>
+    <input type="submit" value="submit" name="sub" />
+  </form>
+</body>
+</html>
