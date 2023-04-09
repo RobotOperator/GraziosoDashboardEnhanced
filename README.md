@@ -41,9 +41,14 @@ An instance of MongoDB must be running with imported data following the steps pr
   Testing has been performed for each desired interaction detailed within the client Dashboard Specification documentation. This includes applying filters using the included buttons, filtering data within the table using search strings, clearing filters, paging through the table for multiple outputs, sorting, observing the updated content for both the map and graph as data changed within the table, and engaging the html anchor website from the Grazioso Salvare logo. Examples of these actions can be seen in the accompanying screenshots that follow.
   
   ### Screenshots
-  #### Importing the Austin Animal Center Outcomes data CSV using the MongoDB import tool.
-  ![Screenshot1](/ReadMeImages/Picture1.png?width=500&height=500 "Screenshot-1")
-  <img src="/ReadMeImages/Picture1.png" width=75% height=75%>
+  ##### Importing the Austin Animal Center Outcomes data CSV using the MongoDB import tool.
+  <img src="/ReadMeImages/Picture1.png" width=70% height=70%>
+  
+  ##### Authenticating as an administrator account and “aacuser” user account
+  <img src="/ReadMeImages/Picture2.png" width=70% height=70%>
+  <img src="/ReadMeImages/Picture3.png" width=70% height=70%>
+  
+  #####
 
 
 
