@@ -24,7 +24,7 @@ To get a local instance of the project up and running follow the steps below.
     <br>b.	Extract vendor.zip in the same hosted directory as the rest of the code
     <br>c.	Update the port used to create MongoDB connections in config.php on line 15 if different from 27017
     <br>d.	Optional: update any references to localhost within config.php, pro.php, and dashboard.php if you are hosting the database on a different server.
-  8.	Use a web browser to navigate to http:\/\/<server>/login.html
+  8.	Use a web browser to navigate to http\://<server>/login.html
   9.	Enter the user credentials that you created for accessing the MongoDB database and you will be redirected to the project Dashboard available at dashboard.php
 
 
