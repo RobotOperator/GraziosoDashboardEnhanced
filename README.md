@@ -27,5 +27,16 @@ To get a local instance of the project up and running follow the steps below.
   8.	Use a web browser to navigate to http\://\<server\>/login.html
   9.	Enter the user credentials that you created for accessing the MongoDB database and you will be redirected to the project Dashboard available at dashboard.php
 
+This project was created using PHP that functions as both a client interface and middleware to interact with MongoDB. At runtime there may be warnings encountered based on how data is being accessed by the incorporated PHP modules for each of the widgets but none of this impacts the functionality of the dashboard for the intended use. A significant challenge when completing this project was properly formatting the HTML elements within the dashboard while maintaining the AJAX functionality. Ultimately, I would like to further improve this project in the future by using HTML templated pages that are called by the PHP code instead of embedding the HTML rendered within the code itself.
+
+## Installation Requirements
+This project is written to be run with PHP 7.4.3 or later and relies upon the PECL PHP MongoDB driver being installed. The HTML elements rendered within this project relies upon JavaScript for dynamic and cleanly formatted elements such as the datatable presented on the dashboard the Graph that is created. These are made possible by code available from jQuery.com and Microsoft aspnetcdn.com for Ajax functionality, canvasjs.com, and openstreetmap.org. The licensing for these technologies has been included in this project if required by the entities providing supporting technologies. 
+
+This project also relies on connecting to an existing MongoDB instance that is either locally or remotely accessible for accessing and updating data. MongoDB was chosen for the flexibility in scaling, rapid response to queries and ease of integration across multiple web servers.
+
+## Usage
+An instance of MongoDB must be running with imported data following the steps presented above. After hosting the PHP and HTML content on a webserver, the dashboard can be access by navigating to http://\<server\>/login.html using a modern web browser and logging in with the user credentials you configured in the MongoDB database. The dashboard will automatically populate a table with unfiltered data retrieved from the MongoDB database. Additionally, below the table two widgets will display pie graph representation of breeds presented in the table and a map widget which can be used to view locations of animals in the table. The data presented in the table can be filtered using two methods. First there is a row of four buttons at the top of the table which will apply three filters to present records matching qualities Grazioso Salvare has deemed desirable for dogs acting as ‘Water Rescue’, ‘Mountain or Wilderness Rescue’, and ‘Disaster or Individual Tracking’. These three different filters can be applied by clicking the corresponding button and can be cleared by clicking the ‘Reset Filters’ button. Additionally, the data presented in the table can be filtered and searched by using the search bar located above the table. To clear these filters just delete the filter value and press enter.
+
+
 
 
